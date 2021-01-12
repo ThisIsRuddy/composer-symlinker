@@ -2,10 +2,10 @@
   "name": "thisisruddy/composer-symlinker",
   "type": "composer-plugin",
   "require": {
-    "composer-plugin-api": "^1.0"
+    "composer-plugin-api": "^1.1 || ^2.0"
   },
   "require-dev": {
-    "composer/composer": "<3.0"
+    "composer/composer": "^1.9 || ^2.0"
   },
   "autoload": {
     "psr-4": {
